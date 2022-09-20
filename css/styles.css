@@ -301,10 +301,9 @@ h1, h2, h3, h4, h5, h6, p {
     width: 206px;
     height: 44px;
     display: flex;
-    justify-content: space-between;
     margin-bottom: 30px;
     margin-top: 16px;
-    text-align: center;
+    justify-content: center;
 }
 .social-container:not(:last-child) {
     padding-right: 10px;
